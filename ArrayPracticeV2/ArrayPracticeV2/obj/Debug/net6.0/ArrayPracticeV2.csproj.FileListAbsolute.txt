@@ -1,0 +1,14 @@
+C:\Users\TeymurDev\Desktop\C# Projects\TeknolojiOdasiShopForm\ArrayPracticeV2\ArrayPracticeV2\bin\Debug\net6.0\ArrayPracticeV2.exe
+C:\Users\TeymurDev\Desktop\C# Projects\TeknolojiOdasiShopForm\ArrayPracticeV2\ArrayPracticeV2\bin\Debug\net6.0\ArrayPracticeV2.deps.json
+C:\Users\TeymurDev\Desktop\C# Projects\TeknolojiOdasiShopForm\ArrayPracticeV2\ArrayPracticeV2\bin\Debug\net6.0\ArrayPracticeV2.runtimeconfig.json
+C:\Users\TeymurDev\Desktop\C# Projects\TeknolojiOdasiShopForm\ArrayPracticeV2\ArrayPracticeV2\bin\Debug\net6.0\ArrayPracticeV2.dll
+C:\Users\TeymurDev\Desktop\C# Projects\TeknolojiOdasiShopForm\ArrayPracticeV2\ArrayPracticeV2\bin\Debug\net6.0\ArrayPracticeV2.pdb
+C:\Users\TeymurDev\Desktop\C# Projects\TeknolojiOdasiShopForm\ArrayPracticeV2\ArrayPracticeV2\obj\Debug\net6.0\ArrayPracticeV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TeymurDev\Desktop\C# Projects\TeknolojiOdasiShopForm\ArrayPracticeV2\ArrayPracticeV2\obj\Debug\net6.0\ArrayPracticeV2.AssemblyInfoInputs.cache
+C:\Users\TeymurDev\Desktop\C# Projects\TeknolojiOdasiShopForm\ArrayPracticeV2\ArrayPracticeV2\obj\Debug\net6.0\ArrayPracticeV2.AssemblyInfo.cs
+C:\Users\TeymurDev\Desktop\C# Projects\TeknolojiOdasiShopForm\ArrayPracticeV2\ArrayPracticeV2\obj\Debug\net6.0\ArrayPracticeV2.csproj.CoreCompileInputs.cache
+C:\Users\TeymurDev\Desktop\C# Projects\TeknolojiOdasiShopForm\ArrayPracticeV2\ArrayPracticeV2\obj\Debug\net6.0\ArrayPracticeV2.dll
+C:\Users\TeymurDev\Desktop\C# Projects\TeknolojiOdasiShopForm\ArrayPracticeV2\ArrayPracticeV2\obj\Debug\net6.0\refint\ArrayPracticeV2.dll
+C:\Users\TeymurDev\Desktop\C# Projects\TeknolojiOdasiShopForm\ArrayPracticeV2\ArrayPracticeV2\obj\Debug\net6.0\ArrayPracticeV2.pdb
+C:\Users\TeymurDev\Desktop\C# Projects\TeknolojiOdasiShopForm\ArrayPracticeV2\ArrayPracticeV2\obj\Debug\net6.0\ArrayPracticeV2.genruntimeconfig.cache
+C:\Users\TeymurDev\Desktop\C# Projects\TeknolojiOdasiShopForm\ArrayPracticeV2\ArrayPracticeV2\obj\Debug\net6.0\ref\ArrayPracticeV2.dll
